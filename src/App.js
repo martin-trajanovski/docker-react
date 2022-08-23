@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Changed this text to test the workflow of feature branch
         </a>
       </header>
     </div>
