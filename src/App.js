@@ -14,8 +14,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          data-testid="app-link"
         >
-          Learn React
+          Changed this text to test the workflow of feature branch
         </a>
       </header>
     </div>
